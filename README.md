@@ -2,7 +2,7 @@
 
 ## Teste Skip ci
 
-![Status do CI](https://github.com/KaioSumikawa/atividade-mocks-sqlite-fatec/actions/workflows/ci.yml/badge.svg)
+![Status do CI](https://github.com/KaioSumikawa/atividade-mocks-sqlite-fatec/actions/workflows/integracao-continua.yml/badge.svg)
 
 ## Como rodar o projeto
 
